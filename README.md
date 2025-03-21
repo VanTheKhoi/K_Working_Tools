@@ -14,4 +14,3 @@ Toolset to help artist working in Blender
 
 ## Installation
 
-## How it works
