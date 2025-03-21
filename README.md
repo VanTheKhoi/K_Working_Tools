@@ -38,3 +38,8 @@ Toolset to copy, paste, snap, merge vertices <br>
 - Cleanup <br>
 Toolset to cleanup material, unused data, transform <br>
 ![image](https://github.com/user-attachments/assets/2d8993fe-6382-484c-ba49-05f65a7a7b1b)
+
+- Normal <br>
+Toolset to deal with normal , copy/ paste vertex , copy/ paste vertex face, weighted face angle, .... <br>
+![image](https://github.com/user-attachments/assets/8774d15d-b33d-4dd0-8fd9-75577d3ddfed)
+
