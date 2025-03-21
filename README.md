@@ -2,10 +2,10 @@
 Toolset to help artist working in Blender
 
 ## Features
--Pie menu \n
--Geometry display \n
--Cursor/ Origin \n
--Combine/ Detach \n
+- Pie menu <br>
+- Geometry display <br>
+- Cursor/ Origin <br>
+- Combine/ Detach <br>
 
 
 ## Installation
