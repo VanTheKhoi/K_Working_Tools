@@ -42,7 +42,8 @@ Toolset to cleanup material, unused data, transform <br>
 - Normal <br>
 Toolset to deal with normal , copy/ paste vertex , copy/ paste vertex face, weighted face angle, .... <br>
 ![image](https://github.com/user-attachments/assets/8774d15d-b33d-4dd0-8fd9-75577d3ddfed) <br>
-![DemoGift](https://github.com/user-attachments/assets/33fc1707-45a6-4579-a135-38f138da9ceb)
+![DemoGift](https://github.com/user-attachments/assets/de6f1cfc-bc43-4b0b-8022-25ec70a0eb25)
+
 
 
 
