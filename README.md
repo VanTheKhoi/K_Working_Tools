@@ -47,4 +47,3 @@ Toolset to deal with normal , copy/ paste vertex , copy/ paste vertex face, weig
 
 
 
-
