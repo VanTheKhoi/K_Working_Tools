@@ -13,4 +13,6 @@ Toolset to help artist working in Blender
 
 
 ## Installation
+Download K_Working_Tools.zip in _Release 
+![image](https://github.com/user-attachments/assets/5c8b4a32-0911-4cb8-8edc-7d532733c17f)
 
