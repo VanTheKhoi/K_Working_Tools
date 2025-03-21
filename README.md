@@ -28,13 +28,13 @@ Quick snap origin or cursor <br>
 ![image](https://github.com/user-attachments/assets/aa1abfef-691a-44c7-b0c4-adcd4a920201)
 
 - Combine/ Detach <br>
-Toolset to Detach/ Combine face
+Toolset to Detach/ Combine face <br>
 ![image](https://github.com/user-attachments/assets/9411a825-581f-4eb6-99ec-d85ad84c3610)
 
 - Vertex <br>
-Toolset to copy, paste, snap, merge vertices
+Toolset to copy, paste, snap, merge vertices <br>
 ![image](https://github.com/user-attachments/assets/dbbe8a54-ef04-4878-beba-bdc28fde31e7)
 
 - Cleanup <br>
-Toolset to cleanup material, unused data, transform 
+Toolset to cleanup material, unused data, transform <br>
 ![image](https://github.com/user-attachments/assets/2d8993fe-6382-484c-ba49-05f65a7a7b1b)
