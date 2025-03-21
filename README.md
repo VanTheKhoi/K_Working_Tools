@@ -1,5 +1,5 @@
 ## K_Working_Tools
-Toolset to help artist working in Blender
+Toolset to help artist working in Blender (BETA version)
 
 ## Features
 - Pie menu <br>
