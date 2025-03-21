@@ -21,5 +21,4 @@ Download K_Working_Tools.zip in _Release
 
 - Geometry Display <br>
 Help users to quick switch display mode <br>
-https://github.com/user-attachments/assets/fc0dcfe2-416f-47de-8abd-3cb0d75f9121
-
+![Screenshot 2025-03-21 at 04 15 56](https://github.com/user-attachments/assets/05e8e24b-59ad-46e7-98c6-f69a49e833e8)
