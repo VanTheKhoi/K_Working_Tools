@@ -2,6 +2,8 @@
 Toolset to help artist work in Blender (BETA version) 
 Tested in Blender 4.0+
 
+Demo clip: https://youtu.be/wtu_UMpHvAI
+
 ## Features
 - Pie menu <br>
 - Geometry display <br>
@@ -43,6 +45,8 @@ Toolset to cleanup material, unused data, transform <br>
 - Normal <br>
 Toolset to deal with normal , copy/ paste vertex , copy/ paste vertex face, weighted face angle, .... <br>
 ![image](https://github.com/user-attachments/assets/8774d15d-b33d-4dd0-8fd9-75577d3ddfed) <br>
+
+
 
 
 
