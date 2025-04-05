@@ -91,7 +91,7 @@ def copy_vertex_normal():
             selected_face = selected_face[0]
             # normals_vector = matrix @ selected_face.normal
             normals_vector = selected_face.normal
-            K_Normal_Variables.copied_vector = normals_vector
+            K_Normal_Variables.copied_vector = mathutils.Vector((normals_vector[0], normals_vector[1], normals_vector[2]))
 
         # Copy vertex normal
         elif selected_vert:
@@ -102,7 +102,7 @@ def copy_vertex_normal():
                 normals_vector = [mesh_data.loops[vertex_face_loop.index].normal for vertex_face_loop in selected_vert.link_loops]
                 
                 normals_vector = normals_vector[0]
-                K_Normal_Variables.copied_vector = normals_vector
+                K_Normal_Variables.copied_vector = mathutils.Vector((normals_vector[0], normals_vector[1], normals_vector[2]))
 
             # Get average vector
             elif len(selected_vert) > 1:
@@ -141,10 +141,7 @@ def copy_faces_normal():
         if selected_face:
             # K_Normal_Variables.copied_faces_normal = {str(face.index):matrix @ face.normal for face in selected_face}
             K_Normal_Variables.copied_faces_normal = {str(face.index):face.normal for face in selected_face}
-
-            # for k, v in K_Normal_Variables.copied_faces_normal.items():
-            #     print(k, v)
-
+            
 
 def paste_vertex_normal():
     vector_process = K_Normal_Variables.copied_vector
