@@ -51,7 +51,7 @@ def get_average_normal_from_verts(verts_input, mesh_data):
     average_normal_vector[1] = average_normal_vector[1]/ array_lenght
     average_normal_vector[2] = average_normal_vector[2]/ array_lenght
 
-    return mathutils.Vector((average_normal_vector[0], average_normal_vector[1], average_normal_vector[2]))
+    return mathutils.Vector((average_normal_vector[0], average_normal_vector[1], average_normal_vector[2])).normalized()
 
 
 def copy_vertex_normal():
